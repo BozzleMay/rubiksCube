@@ -1,0 +1,38 @@
+
+.rightSide{
+    display: flex;
+    height: 100%;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+}
+.leftSide{
+    display: flex;
+    height: 100%;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+.leftSide div {
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+.rightSide div {
+    margin-bottom: 10px;
+    
+}
+.cubeButtons {
+display: flex;
+padding:10px;
+margin-top: -50px;
+}
+.direction_button{
+    width: 155px;
+    
+}
+.flipButton {
+width: 100%;
+}
+@media (max-width: 800px) {
+    .cubeButtons {
+    margin-top: 0px;
+    }
+   }
