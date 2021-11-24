@@ -1,3 +1,5 @@
+# Rubik's Cube Project
+
 This is a small project designed to emulate a rubik's cube and it's movements. The buttons mimic the available moves that can be made on a rubik's cube. The cube is designed using plain CSS.
 
 ### Making Moves 
