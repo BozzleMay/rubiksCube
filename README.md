@@ -1,3 +1,5 @@
+This is a small project designed to emulate a rubik's cube and it's movements. The buttons  mimic the available moves that can be made on a rubik's cube. The cube is designed using plain CSS and the cube can be flipped to ensure that all sides can be viewed.
+
 # Getting Started
 
 In the project directory, you can run:
