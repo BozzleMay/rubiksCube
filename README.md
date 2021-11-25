@@ -8,7 +8,7 @@ Left-click on the directional buttons to rotate the cube in the respective direc
 
 ### Additional Functionality
 
-Left-click in the flip cube button to swap the faces of the cube that are in view.
+Left-click on the flip cube button to swap the faces of the cube that are in view
 
 # Getting Started
 
